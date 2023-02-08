@@ -1,0 +1,1 @@
+formullas for shell
